@@ -82,28 +82,182 @@ Tab {
 
 						color: Js.getBackgroundColor()
 
-						Label {
-							width: parent.width
-							text: model.data.title
-							wrapMode: Text.Wrap
-							maximumLineCount: 2
+						Flipable {
+							id: itemflipable
+							anchors.fill: parent
 
-							font.pixelSize: parent.height / 4
-						}
+							property bool flipped: false
 
-						Label {
-							width: parent.width
-							wrapMode: Text.Wrap
-							maximumLineCount: 1
-							font.pixelSize: parent.height / 5
+							front: Rectangle {
+								anchors.fill: parent
+								color: Js.getBackgroundColor()
 
-							anchors.bottom: parent.bottom
-							//							anchors.left: thumbshape.right
+								Label {
+									width: parent.width
+									text: model.data.title
+									wrapMode: Text.Wrap
+									maximumLineCount: 2
 
-							text: "Score: " + model.data.score +
-								  ((url == "/" || url == "/r/all") ? " in r/" + model.data.subreddit : "") +
-								  " by " + model.data.author +
-								  " (" + model.data.domain + ")"
+									font.pixelSize: parent.height / 4
+								}
+
+								Label {
+									width: parent.width
+									wrapMode: Text.Wrap
+									maximumLineCount: 1
+									font.pixelSize: parent.height / 5
+
+									anchors.bottom: parent.bottom
+									//							anchors.left: thumbshape.right
+
+									text: "Score: " + model.data.score +
+										  ((url == "/" || url == "/r/all") ? " in r/" + model.data.subreddit : "") +
+										  " by " + model.data.author +
+										  " (" + model.data.domain + ")"
+								}
+
+								MouseArea {
+									anchors.fill: parent
+
+									enabled: !itemflipable.flipped
+									onClicked: itemflipable.flip()
+								}
+							}
+
+							back: Rectangle {
+								anchors.fill: parent
+//								color: Js.getBackgroundColor()
+
+								Row {
+									anchors.fill: parent
+
+									Rectangle {
+										width: parent.width / 5
+										height: parent.height
+										color: Js.getBackgroundColor()
+
+										Rectangle {
+											height: (parent.width < parent.height) ? parent.width : parent.height
+											width: height
+											color: Js.getBackgroundColor()
+
+											anchors.left: parent.left
+
+											Image {
+												anchors.fill: parent
+												source: "upvoteEmpty.png"
+												fillMode: Image.Stretch
+											}
+										}
+
+										MouseArea {
+											anchors.fill:parent
+											enabled: itemflipable.flipped
+											onClicked: console.log("Upvoted!")
+										}
+									}
+
+									Rectangle {
+										width: parent.width / 5
+										height: parent.height
+										color: Js.getBackgroundColor()
+
+										Label {
+											anchors.centerIn: parent
+											text: "Comments"
+										}
+
+										MouseArea {
+											anchors.fill: parent
+											enabled: itemflipable.flipped
+											onClicked: console.log("Go to the comments!")
+										}
+									}
+
+									Rectangle {
+										width: parent.width / 5
+										height: parent.height
+										color: Js.getBackgroundColor()
+
+										Label {
+											anchors.centerIn: parent
+											text: "back"
+										}
+
+										MouseArea {
+											anchors.fill: parent
+											enabled: itemflipable.flipped
+											onClicked: itemflipable.flip()
+										}
+									}
+
+									Rectangle {
+										width: parent.width / 5
+										height: parent.height
+										color: Js.getBackgroundColor()
+
+										Label {
+											anchors.centerIn: parent
+											text: "u/" + model.data.author
+										}
+
+										MouseArea {
+											anchors.fill: parent
+											enabled: itemflipable.flipped
+											onClicked: console.log("Go to the user's page!")
+										}
+									}
+
+									Rectangle {
+										width: parent.width / 5
+										height: parent.height
+
+										color: Js.getBackgroundColor()
+
+										Rectangle {
+											height: (parent.width < parent.height) ? parent.width : parent.height //smallest of width and height
+											width: height
+											color: Js.getBackgroundColor()
+
+											anchors.right: parent.right
+
+											Image {
+												source: "downvoteEmpty.png"
+												fillMode: Image.Stretch
+												anchors.fill: parent
+											}
+										}
+
+										MouseArea {
+											anchors.fill: parent
+											enabled: itemflipable.flipped
+											onClicked: console.log("Downvoted!")
+										}
+									}
+								}
+							}
+
+							transform: Rotation {
+								id: rotation
+								origin.x: itemflipable.width / 2
+								origin.y: itemflipable.height / 2
+								axis.x: 1; axis.y: 0; axis.z: 0     // add option: which axis
+								angle: 0    // the default angle
+							}
+
+							states: State {
+								name: "back"
+								PropertyChanges { target: rotation; angle: 180 }
+								when: itemflipable.flipped
+							}
+
+							transitions: Transition {
+								NumberAnimation { target: rotation; property: "angle"; duration: Storage.getSetting("flipspeed") / 2 } // add option: speed
+							}
+
+							function flip () {
+								itemflipable.flipped = !itemflipable.flipped
+							}
 						}
 					}
 				}
