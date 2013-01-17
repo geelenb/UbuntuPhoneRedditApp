@@ -125,7 +125,7 @@ Tab {
 				ListItem.Divider{}
 
 				ListItem.Header {
-					text: "Appereance"
+					text: "Appearance"
 				}
 
 				ListItem.Standard {
