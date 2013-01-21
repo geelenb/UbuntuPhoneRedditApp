@@ -19,3 +19,6 @@ If you currently have access to a phone with Ubuntu, please contact me!
 
 ## Demo:
 [Youtube](http://youtu.be/T7hxxYDDw78)
+
+## Want to help?
+I am still searching for someone that can make the app "log in" to Reddit, as I don't know how to do that.
