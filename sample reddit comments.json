@@ -1,0 +1,2707 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "github.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Ubuntu",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": true,
+            "link_flair_text": null,
+            "id": "16mewg",
+            "clicked": false,
+            "title": "I'm making a Reddit reader for the phone! Anyone care to join?",
+            "num_comments": 81,
+            "score": 183,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "",
+            "subreddit_id": "t5_2qh62",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 47,
+            "saved": false,
+            "is_self": false,
+            "permalink": "/r/Ubuntu/comments/16mewg/im_making_a_reddit_reader_for_the_phone_anyone/",
+            "name": "t3_16mewg",
+            "created": 1358294158.0,
+            "url": "https://github.com/brambram/UbuntuPhoneRedditApp",
+            "author_flair_text": null,
+            "author": "anyonethinkingabout",
+            "created_utc": 1358265358.0,
+            "media": null,
+            "num_reports": null,
+            "ups": 230
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": true,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": true,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2qh62",
+                                "banned_by": null,
+                                "link_id": "t3_16mewg",
+                                "likes": true,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2qh62",
+                                          "banned_by": null,
+                                          "link_id": "t3_16mewg",
+                                          "likes": true,
+                                          "replies": "",
+                                          "id": "c7xv9tq",
+                                          "gilded": 0,
+                                          "author": "anyonethinkingabout",
+                                          "parent_id": "t1_c7xurz7",
+                                          "approved_by": null,
+                                          "body": "I followed him on g+ and 2 minutes later he contacts me on irc...\n\nnot an unpleasant surprise.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I followed him on g+ and 2 minutes later he contacts me on irc...&lt;/p&gt;\n\n&lt;p&gt;not an unpleasant surprise.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Ubuntu",
+                                          "name": "t1_c7xv9tq",
+                                          "created": 1358368562.0,
+                                          "author_flair_text": null,
+                                          "created_utc": 1358339762.0,
+                                          "num_reports": null,
+                                          "ups": 8
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "id": "c7xurz7",
+                                "gilded": 0,
+                                "author": "PotentChili",
+                                "parent_id": "t1_c7xi2ja",
+                                "approved_by": null,
+                                "body": "Not quite the answer you were expecting eh? :)",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Not quite the answer you were expecting eh? :)&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Ubuntu",
+                                "name": "t1_c7xurz7",
+                                "created": 1358364381.0,
+                                "author_flair_text": null,
+                                "created_utc": 1358335581.0,
+                                "num_reports": null,
+                                "ups": 4
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "id": "c7xi2ja",
+                      "gilded": 0,
+                      "author": "anyonethinkingabout",
+                      "parent_id": "t1_c7xe2vw",
+                      "approved_by": null,
+                      "body": "thanks a lot!",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 1,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;thanks a lot!&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xi2ja",
+                      "created": 1358312653.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358283853.0,
+                      "num_reports": null,
+                      "ups": 14
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": null,
+                      "replies": "",
+                      "id": "c7xsunq",
+                      "gilded": 0,
+                      "author": "ritz_k",
+                      "parent_id": "t1_c7xe2vw",
+                      "approved_by": null,
+                      "body": "hmm, no support for raring ?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;hmm, no support for raring ?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xsunq",
+                      "created": 1358349342.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358320542.0,
+                      "num_reports": null,
+                      "ups": 3
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xe2vw",
+            "gilded": 0,
+            "author": "jonobacon",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "Thanks for working on this. We would definitely like to help you deliver a great app.\n\nI am going to talk to the design team about providing some design input that can help your reader be in line with the general design of the phone (so it looks as native as possible), and Michael Hall (mhall119) is here to help.",
+            "edited": false,
+            "author_flair_css_class": "flair flair-canonical",
+            "downs": 8,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks for working on this. We would definitely like to help you deliver a great app.&lt;/p&gt;\n\n&lt;p&gt;I am going to talk to the design team about providing some design input that can help your reader be in line with the general design of the phone (so it looks as native as possible), and Michael Hall (mhall119) is here to help.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xe2vw",
+            "created": 1358301170.0,
+            "author_flair_text": null,
+            "created_utc": 1358272370.0,
+            "num_reports": null,
+            "ups": 68
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": true,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": true,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2qh62",
+                                "banned_by": null,
+                                "link_id": "t3_16mewg",
+                                "likes": true,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2qh62",
+                                          "banned_by": null,
+                                          "link_id": "t3_16mewg",
+                                          "likes": true,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2qh62",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_16mewg",
+                                                    "likes": true,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2qh62",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_16mewg",
+                                                              "likes": true,
+                                                              "replies": "",
+                                                              "id": "c7xmtnm",
+                                                              "gilded": 0,
+                                                              "author": "aperson",
+                                                              "parent_id": "t1_c7xm31s",
+                                                              "approved_by": null,
+                                                              "body": "Not really.  It just hasn't been a focus.  http://reddit.com/r/ubuntu/about.json has the entirety of our sidebar in it, ready for any ol' app to display.  Also, relevant username on your part.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Not really.  It just hasn&amp;#39;t been a focus.  &lt;a href=\"http://reddit.com/r/ubuntu/about.json\"&gt;http://reddit.com/r/ubuntu/about.json&lt;/a&gt; has the entirety of our sidebar in it, ready for any ol&amp;#39; app to display.  Also, relevant username on your part.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Ubuntu",
+                                                              "name": "t1_c7xmtnm",
+                                                              "created": 1358327988.0,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1358299188.0,
+                                                              "num_reports": null,
+                                                              "ups": 4
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "id": "c7xm31s",
+                                                    "gilded": 0,
+                                                    "author": "ProbablyGeneralizing",
+                                                    "parent_id": "t1_c7xjpey",
+                                                    "approved_by": null,
+                                                    "body": "Surly it presents some sort of logistical problem if there hasn't been a single mobile app that could do it.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Surly it presents some sort of logistical problem if there hasn&amp;#39;t been a single mobile app that could do it.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Ubuntu",
+                                                    "name": "t1_c7xm31s",
+                                                    "created": 1358325489.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1358296689.0,
+                                                    "num_reports": null,
+                                                    "ups": 4
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "id": "c7xjpey",
+                                          "gilded": 0,
+                                          "author": "aperson",
+                                          "parent_id": "t1_c7xj2eo",
+                                          "approved_by": null,
+                                          "body": "Exactly my point.  I hear that as an excuse so often.  \"Well, I was on mobile so I can't read your rules\".",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Exactly my point.  I hear that as an excuse so often.  &amp;quot;Well, I was on mobile so I can&amp;#39;t read your rules&amp;quot;.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Ubuntu",
+                                          "name": "t1_c7xjpey",
+                                          "created": 1358317648.0,
+                                          "author_flair_text": null,
+                                          "created_utc": 1358288848.0,
+                                          "num_reports": null,
+                                          "ups": 11
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2qh62",
+                                          "banned_by": null,
+                                          "link_id": "t3_16mewg",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2qh62",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_16mewg",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2qh62",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_16mewg",
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "id": "c7xokt8",
+                                                              "gilded": 0,
+                                                              "author": "nicereddy",
+                                                              "parent_id": "t1_c7xoe63",
+                                                              "approved_by": null,
+                                                              "body": "If you go to the subreddit and click the subreddit name near the top it opens.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If you go to the subreddit and click the subreddit name near the top it opens.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Ubuntu",
+                                                              "name": "t1_c7xokt8",
+                                                              "created": 1358333662.0,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1358304862.0,
+                                                              "num_reports": null,
+                                                              "ups": 3
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "id": "c7xoe63",
+                                                    "gilded": 0,
+                                                    "author": "slappypappywahwah",
+                                                    "parent_id": "t1_c7xm357",
+                                                    "approved_by": null,
+                                                    "body": "How is it accessed on reddit sync?",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;How is it accessed on reddit sync?&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Ubuntu",
+                                                    "name": "t1_c7xoe63",
+                                                    "created": 1358333082.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1358304282.0,
+                                                    "num_reports": null,
+                                                    "ups": 3
+                                                  }
+                                                },
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2qh62",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_16mewg",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "id": "c7xmkek",
+                                                    "gilded": 0,
+                                                    "author": "MrToolBelt",
+                                                    "parent_id": "t1_c7xm357",
+                                                    "approved_by": null,
+                                                    "body": "ah, I use reddit news on android, and alienblue on ipad.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 3,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;ah, I use reddit news on android, and alienblue on ipad.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Ubuntu",
+                                                    "name": "t1_c7xmkek",
+                                                    "created": 1358327097.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1358298297.0,
+                                                    "num_reports": null,
+                                                    "ups": 3
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "id": "c7xm357",
+                                          "gilded": 0,
+                                          "author": "nicereddy",
+                                          "parent_id": "t1_c7xj2eo",
+                                          "approved_by": null,
+                                          "body": "Reddit is fun and Reddit Sync on Android do!",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 1,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Reddit is fun and Reddit Sync on Android do!&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Ubuntu",
+                                          "name": "t1_c7xm357",
+                                          "created": 1358325499.0,
+                                          "author_flair_text": null,
+                                          "created_utc": 1358296699.0,
+                                          "num_reports": null,
+                                          "ups": 6
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2qh62",
+                                          "banned_by": null,
+                                          "link_id": "t3_16mewg",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2qh62",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_16mewg",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "id": "c7xmkbn",
+                                                    "gilded": 0,
+                                                    "author": "MrToolBelt",
+                                                    "parent_id": "t1_c7xm5v4",
+                                                    "approved_by": null,
+                                                    "body": "ah, I use reddit news on android, and alienblue on ipad.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 3,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;ah, I use reddit news on android, and alienblue on ipad.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Ubuntu",
+                                                    "name": "t1_c7xmkbn",
+                                                    "created": 1358327089.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1358298289.0,
+                                                    "num_reports": null,
+                                                    "ups": 2
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "id": "c7xm5v4",
+                                          "gilded": 0,
+                                          "author": "laxet",
+                                          "parent_id": "t1_c7xj2eo",
+                                          "approved_by": null,
+                                          "body": "Reddit Sync (for Android) does!",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Reddit Sync (for Android) does!&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Ubuntu",
+                                          "name": "t1_c7xm5v4",
+                                          "created": 1358325755.0,
+                                          "author_flair_text": null,
+                                          "created_utc": 1358296955.0,
+                                          "num_reports": null,
+                                          "ups": 2
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2qh62",
+                                          "banned_by": null,
+                                          "link_id": "t3_16mewg",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2qh62",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_16mewg",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2qh62",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_16mewg",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2qh62",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_16mewg",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2qh62",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_16mewg",
+                                                                                  "likes": null,
+                                                                                  "replies": {
+                                                                                    "kind": "Listing",
+                                                                                    "data": {
+                                                                                      "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "kind": "t1",
+                                                                                          "data": {
+                                                                                            "subreddit_id": "t5_2qh62",
+                                                                                            "banned_by": null,
+                                                                                            "link_id": "t3_16mewg",
+                                                                                            "likes": null,
+                                                                                            "replies": {
+                                                                                              "kind": "Listing",
+                                                                                              "data": {
+                                                                                                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "kind": "t1",
+                                                                                                    "data": {
+                                                                                                      "subreddit_id": "t5_2qh62",
+                                                                                                      "banned_by": null,
+                                                                                                      "link_id": "t3_16mewg",
+                                                                                                      "likes": null,
+                                                                                                      "replies": "",
+                                                                                                      "id": "c7y3wqo",
+                                                                                                      "gilded": 0,
+                                                                                                      "author": "Sphaerophoria",
+                                                                                                      "parent_id": "t1_c7xtwzt",
+                                                                                                      "approved_by": null,
+                                                                                                      "body": "... You hit the three dots.",
+                                                                                                      "edited": false,
+                                                                                                      "author_flair_css_class": null,
+                                                                                                      "downs": 0,
+                                                                                                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;... You hit the three dots.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                                      "subreddit": "Ubuntu",
+                                                                                                      "name": "t1_c7y3wqo",
+                                                                                                      "created": 1358398225.0,
+                                                                                                      "author_flair_text": null,
+                                                                                                      "created_utc": 1358369425.0,
+                                                                                                      "num_reports": null,
+                                                                                                      "ups": 1
+                                                                                                    }
+                                                                                                  }
+                                                                                                ],
+                                                                                                "after": null,
+                                                                                                "before": null
+                                                                                              }
+                                                                                            },
+                                                                                            "id": "c7xtwzt",
+                                                                                            "gilded": 0,
+                                                                                            "author": "MrToolBelt",
+                                                                                            "parent_id": "t1_c7xtmfv",
+                                                                                            "approved_by": null,
+                                                                                            "body": ":(",
+                                                                                            "edited": false,
+                                                                                            "author_flair_css_class": null,
+                                                                                            "downs": 0,
+                                                                                            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;:(&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                            "subreddit": "Ubuntu",
+                                                                                            "name": "t1_c7xtwzt",
+                                                                                            "created": 1358356448.0,
+                                                                                            "author_flair_text": null,
+                                                                                            "created_utc": 1358327648.0,
+                                                                                            "num_reports": null,
+                                                                                            "ups": 2
+                                                                                          }
+                                                                                        }
+                                                                                      ],
+                                                                                      "after": null,
+                                                                                      "before": null
+                                                                                    }
+                                                                                  },
+                                                                                  "id": "c7xtmfv",
+                                                                                  "gilded": 0,
+                                                                                  "author": "PoopBucket",
+                                                                                  "parent_id": "t1_c7xthi6",
+                                                                                  "approved_by": null,
+                                                                                  "body": "I have an old phone, so I still have the menu button. It's under \"Sidebar\" there. How it works on Phones without it I do not know.",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I have an old phone, so I still have the menu button. It&amp;#39;s under &amp;quot;Sidebar&amp;quot; there. How it works on Phones without it I do not know.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Ubuntu",
+                                                                                  "name": "t1_c7xtmfv",
+                                                                                  "created": 1358354107.0,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1358325307.0,
+                                                                                  "num_reports": null,
+                                                                                  "ups": 2
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "id": "c7xthi6",
+                                                                        "gilded": 0,
+                                                                        "author": "MrToolBelt",
+                                                                        "parent_id": "t1_c7xtbfi",
+                                                                        "approved_by": null,
+                                                                        "body": "how?",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;how?&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Ubuntu",
+                                                                        "name": "t1_c7xthi6",
+                                                                        "created": 1358353179.0,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1358324379.0,
+                                                                        "num_reports": null,
+                                                                        "ups": 2
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "id": "c7xtbfi",
+                                                              "gilded": 0,
+                                                              "author": "PoopBucket",
+                                                              "parent_id": "t1_c7xt02w",
+                                                              "approved_by": null,
+                                                              "body": "Reddit news does have this feature.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Reddit news does have this feature.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Ubuntu",
+                                                              "name": "t1_c7xtbfi",
+                                                              "created": 1358352078.0,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1358323278.0,
+                                                              "num_reports": null,
+                                                              "ups": 2
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "id": "c7xt02w",
+                                                    "gilded": 0,
+                                                    "author": "MrToolBelt",
+                                                    "parent_id": "t1_c7xss6d",
+                                                    "approved_by": null,
+                                                    "body": "I use reddit news on android, and I don't have that option. Apparently I need to switch clients.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 2,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I use reddit news on android, and I don&amp;#39;t have that option. Apparently I need to switch clients.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Ubuntu",
+                                                    "name": "t1_c7xt02w",
+                                                    "created": 1358350182.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1358321382.0,
+                                                    "num_reports": null,
+                                                    "ups": 3
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "id": "c7xss6d",
+                                          "gilded": 0,
+                                          "author": "cwill747",
+                                          "parent_id": "t1_c7xj2eo",
+                                          "approved_by": null,
+                                          "body": "Not trying to be a dick, but a bunch of Android readers do at least. Reddit Now, Reddit sync, and RIF all allow you to view sidebars. \n\nEdit: Jk reddit now doesn't that I can find. ",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Not trying to be a dick, but a bunch of Android readers do at least. Reddit Now, Reddit sync, and RIF all allow you to view sidebars. &lt;/p&gt;\n\n&lt;p&gt;Edit: Jk reddit now doesn&amp;#39;t that I can find. &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Ubuntu",
+                                          "name": "t1_c7xss6d",
+                                          "created": 1358348975.0,
+                                          "author_flair_text": null,
+                                          "created_utc": 1358320175.0,
+                                          "num_reports": null,
+                                          "ups": 2
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "id": "c7xj2eo",
+                                "gilded": 0,
+                                "author": "MrToolBelt",
+                                "parent_id": "t1_c7xifhp",
+                                "approved_by": null,
+                                "body": "That should definitely be an option.  Almost no mobile reader does that.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 1,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That should definitely be an option.  Almost no mobile reader does that.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Ubuntu",
+                                "name": "t1_c7xj2eo",
+                                "created": 1358315645.0,
+                                "author_flair_text": null,
+                                "created_utc": 1358286845.0,
+                                "num_reports": null,
+                                "ups": 18
+                              }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2qh62",
+                                "banned_by": null,
+                                "link_id": "t3_16mewg",
+                                "likes": null,
+                                "replies": "",
+                                "id": "c7xuguw",
+                                "gilded": 0,
+                                "author": "keto4life",
+                                "parent_id": "t1_c7xifhp",
+                                "approved_by": null,
+                                "body": "Please for the love of god include some way of quickly viewing the sidebar or even a full reddit description (publicly describe your subreddit for all to see. 500 characters max.) - this could led moderators include important announcements pertaining to posting and commenting. \n\nCase in point would be /r/keto - so many app users (SO MANY) come to the sub and post questions that would have been answered in seconds like \"What is keto\". If they could see the sub description before they even entered it, it would save a lot of work for moderators.\n\nBrilliant idea though. I can't think of a better starting app.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 1,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Please for the love of god include some way of quickly viewing the sidebar or even a full reddit description (publicly describe your subreddit for all to see. 500 characters max.) - this could led moderators include important announcements pertaining to posting and commenting. &lt;/p&gt;\n\n&lt;p&gt;Case in point would be &lt;a href=\"/r/keto\"&gt;/r/keto&lt;/a&gt; - so many app users (SO MANY) come to the sub and post questions that would have been answered in seconds like &amp;quot;What is keto&amp;quot;. If they could see the sub description before they even entered it, it would save a lot of work for moderators.&lt;/p&gt;\n\n&lt;p&gt;Brilliant idea though. I can&amp;#39;t think of a better starting app.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Ubuntu",
+                                "name": "t1_c7xuguw",
+                                "created": 1358361404.0,
+                                "author_flair_text": null,
+                                "created_utc": 1358332604.0,
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2qh62",
+                                "banned_by": null,
+                                "link_id": "t3_16mewg",
+                                "likes": null,
+                                "replies": "",
+                                "id": "c7xw6fu",
+                                "gilded": 0,
+                                "author": "jmcs",
+                                "parent_id": "t1_c7xifhp",
+                                "approved_by": null,
+                                "body": "You can implement it like reddit is fun, a simple button in the toolbar solves the problem.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You can implement it like reddit is fun, a simple button in the toolbar solves the problem.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Ubuntu",
+                                "name": "t1_c7xw6fu",
+                                "created": 1358374077.0,
+                                "author_flair_text": null,
+                                "created_utc": 1358345277.0,
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "id": "c7xifhp",
+                      "gilded": 0,
+                      "author": "anyonethinkingabout",
+                      "parent_id": "t1_c7xf0xw",
+                      "approved_by": null,
+                      "body": "It's not currently on the schedule, but I'll keep it in mind!",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It&amp;#39;s not currently on the schedule, but I&amp;#39;ll keep it in mind!&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xifhp",
+                      "created": 1358313744.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358284944.0,
+                      "num_reports": null,
+                      "ups": 7
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2qh62",
+                                "banned_by": null,
+                                "link_id": "t3_16mewg",
+                                "likes": true,
+                                "replies": "",
+                                "id": "c7xvabm",
+                                "gilded": 0,
+                                "author": "anyonethinkingabout",
+                                "parent_id": "t1_c7xnfsw",
+                                "approved_by": null,
+                                "body": "I can't control these things (yet)",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I can&amp;#39;t control these things (yet)&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Ubuntu",
+                                "name": "t1_c7xvabm",
+                                "created": 1358368662.0,
+                                "author_flair_text": null,
+                                "created_utc": 1358339862.0,
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "id": "c7xnfsw",
+                      "gilded": 0,
+                      "author": "brigaid",
+                      "parent_id": "t1_c7xf0xw",
+                      "approved_by": null,
+                      "body": "How about a two-finger swipe from the right side (not the edge) drags open the sidebar?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;How about a two-finger swipe from the right side (not the edge) drags open the sidebar?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xnfsw",
+                      "created": 1358330032.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358301232.0,
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": null,
+                      "replies": "",
+                      "id": "c7xlv8m",
+                      "gilded": 0,
+                      "author": "Pxtl",
+                      "parent_id": "t1_c7xf0xw",
+                      "approved_by": null,
+                      "body": "Honestly, I wish the admins would start making conventions for mobile for no-dpwnvote and np and sidebar info, since sidebars aren't generally mobile-friendly.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 2,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Honestly, I wish the admins would start making conventions for mobile for no-dpwnvote and np and sidebar info, since sidebars aren&amp;#39;t generally mobile-friendly.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xlv8m",
+                      "created": 1358324759.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358295959.0,
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xf0xw",
+            "gilded": 0,
+            "author": "aperson",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "Every moderator would love you if you have a way to view the subreddit's sidebar.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 7,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Every moderator would love you if you have a way to view the subreddit&amp;#39;s sidebar.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xf0xw",
+            "created": 1358303949.0,
+            "author_flair_text": null,
+            "created_utc": 1358275149.0,
+            "num_reports": null,
+            "ups": 38
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": true,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": true,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2qh62",
+                                "banned_by": null,
+                                "link_id": "t3_16mewg",
+                                "likes": true,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2qh62",
+                                          "banned_by": null,
+                                          "link_id": "t3_16mewg",
+                                          "likes": true,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2qh62",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_16mewg",
+                                                    "likes": true,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2qh62",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_16mewg",
+                                                              "likes": true,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2qh62",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_16mewg",
+                                                                        "likes": true,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2qh62",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_16mewg",
+                                                                                  "likes": true,
+                                                                                  "replies": "",
+                                                                                  "id": "c7xtske",
+                                                                                  "gilded": 0,
+                                                                                  "author": "ManicQin",
+                                                                                  "parent_id": "t1_c7xlsfj",
+                                                                                  "approved_by": null,
+                                                                                  "body": "I went through the tutorial step by step so it's already set to qmlscene.\n\nI'll just uninstall, reinstall.\n\nThanks!",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I went through the tutorial step by step so it&amp;#39;s already set to qmlscene.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ll just uninstall, reinstall.&lt;/p&gt;\n\n&lt;p&gt;Thanks!&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Ubuntu",
+                                                                                  "name": "t1_c7xtske",
+                                                                                  "created": 1358355420.0,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1358326620.0,
+                                                                                  "num_reports": null,
+                                                                                  "ups": 2
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "id": "c7xlsfj",
+                                                                        "gilded": 0,
+                                                                        "author": "anyonethinkingabout",
+                                                                        "parent_id": "t1_c7xkik7",
+                                                                        "approved_by": null,
+                                                                        "body": "qtcreator-&gt;tools-&gt;external-&gt;configure-&gt;qt quick-&gt;executable should say \n\n    /opt/qt5/bin/qmlscene",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;qtcreator-&amp;gt;tools-&amp;gt;external-&amp;gt;configure-&amp;gt;qt quick-&amp;gt;executable should say &lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;/opt/qt5/bin/qmlscene\n&lt;/code&gt;&lt;/pre&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Ubuntu",
+                                                                        "name": "t1_c7xlsfj",
+                                                                        "created": 1358324495.0,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1358295695.0,
+                                                                        "num_reports": null,
+                                                                        "ups": 2
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "id": "c7xkik7",
+                                                              "gilded": 0,
+                                                              "author": "ManicQin",
+                                                              "parent_id": "t1_c7xk3fy",
+                                                              "approved_by": null,
+                                                              "body": "Strangely it worked ...\n\nFrom QtCreator too, but still your project and some other examples don't work.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Strangely it worked ...&lt;/p&gt;\n\n&lt;p&gt;From QtCreator too, but still your project and some other examples don&amp;#39;t work.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Ubuntu",
+                                                              "name": "t1_c7xkik7",
+                                                              "created": 1358320286.0,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1358291486.0,
+                                                              "num_reports": null,
+                                                              "ups": 3
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "id": "c7xk3fy",
+                                                    "gilded": 0,
+                                                    "author": "anyonethinkingabout",
+                                                    "parent_id": "t1_c7xj3vy",
+                                                    "approved_by": null,
+                                                    "body": "try to execute\n\n    qmlscene /usr/lib/qt-components-ubuntu/demos/ComponentShowcase.qml \n\nand report back",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;try to execute&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;qmlscene /usr/lib/qt-components-ubuntu/demos/ComponentShowcase.qml \n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;and report back&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Ubuntu",
+                                                    "name": "t1_c7xk3fy",
+                                                    "created": 1358318927.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1358290127.0,
+                                                    "num_reports": null,
+                                                    "ups": 2
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "id": "c7xj3vy",
+                                          "gilded": 0,
+                                          "author": "ManicQin",
+                                          "parent_id": "t1_c7xiafk",
+                                          "approved_by": null,
+                                          "body": "Maybe you'll have an idea,\n\nI already had qt creator installed, I followed the instruction to reinstall qt creator with the ubuntu components but everything I try to run gives me:\n\nmodule \"QmlProject\" is not installed\n\nmodule \"Ubuntu.Components 0.1\" is not installed\n\nSo before I remove qt creator and reinstall, do you have any idea?\n",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Maybe you&amp;#39;ll have an idea,&lt;/p&gt;\n\n&lt;p&gt;I already had qt creator installed, I followed the instruction to reinstall qt creator with the ubuntu components but everything I try to run gives me:&lt;/p&gt;\n\n&lt;p&gt;module &amp;quot;QmlProject&amp;quot; is not installed&lt;/p&gt;\n\n&lt;p&gt;module &amp;quot;Ubuntu.Components 0.1&amp;quot; is not installed&lt;/p&gt;\n\n&lt;p&gt;So before I remove qt creator and reinstall, do you have any idea?&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Ubuntu",
+                                          "name": "t1_c7xj3vy",
+                                          "created": 1358315770.0,
+                                          "author_flair_text": null,
+                                          "created_utc": 1358286970.0,
+                                          "num_reports": null,
+                                          "ups": 4
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "id": "c7xiafk",
+                                "gilded": 0,
+                                "author": "anyonethinkingabout",
+                                "parent_id": "t1_c7xdlvl",
+                                "approved_by": null,
+                                "body": "and look at the files in /usr/lib/qt-components/ubuntu/demos/ too\n\nthese helped me a lot\n",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;and look at the files in /usr/lib/qt-components/ubuntu/demos/ too&lt;/p&gt;\n\n&lt;p&gt;these helped me a lot&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Ubuntu",
+                                "name": "t1_c7xiafk",
+                                "created": 1358313327.0,
+                                "author_flair_text": null,
+                                "created_utc": 1358284527.0,
+                                "num_reports": null,
+                                "ups": 4
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "id": "c7xdlvl",
+                      "gilded": 0,
+                      "author": "ManicQin",
+                      "parent_id": "t1_c7xcrn4",
+                      "approved_by": null,
+                      "body": "No one has a phone.\nGoogle Ubuntu phone sdk (I'm on mobile so sorry) there's a step by step tutorial.\n\nEDIT : I got home\n\nhttp://developer.ubuntu.com/resources/app-developer-cookbook/mobile/currency-converter-phone-app/",
+                      "edited": 1358280402.0,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No one has a phone.\nGoogle Ubuntu phone sdk (I&amp;#39;m on mobile so sorry) there&amp;#39;s a step by step tutorial.&lt;/p&gt;\n\n&lt;p&gt;EDIT : I got home&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://developer.ubuntu.com/resources/app-developer-cookbook/mobile/currency-converter-phone-app/\"&gt;http://developer.ubuntu.com/resources/app-developer-cookbook/mobile/currency-converter-phone-app/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xdlvl",
+                      "created": 1358299744.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358270944.0,
+                      "num_reports": null,
+                      "ups": 15
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": true,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2qh62",
+                                "banned_by": null,
+                                "link_id": "t3_16mewg",
+                                "likes": true,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2qh62",
+                                          "banned_by": null,
+                                          "link_id": "t3_16mewg",
+                                          "likes": true,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2qh62",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_16mewg",
+                                                    "likes": true,
+                                                    "replies": "",
+                                                    "id": "c7xdumx",
+                                                    "gilded": 0,
+                                                    "author": "taterNuts",
+                                                    "parent_id": "t1_c7xdr64",
+                                                    "approved_by": null,
+                                                    "body": "yeah it's not so much that I don't think I can learn it, it just doesn't look like a whole lot of fun. I'll PM you later today though I'll probably still want to help.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;yeah it&amp;#39;s not so much that I don&amp;#39;t think I can learn it, it just doesn&amp;#39;t look like a whole lot of fun. I&amp;#39;ll PM you later today though I&amp;#39;ll probably still want to help.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Ubuntu",
+                                                    "name": "t1_c7xdumx",
+                                                    "created": 1358300481.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1358271681.0,
+                                                    "num_reports": null,
+                                                    "ups": 2
+                                                  }
+                                                },
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2qh62",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_16mewg",
+                                                    "likes": true,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2qh62",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_16mewg",
+                                                              "likes": true,
+                                                              "replies": "",
+                                                              "id": "c7xi4di",
+                                                              "gilded": 0,
+                                                              "author": "anyonethinkingabout",
+                                                              "parent_id": "t1_c7xesmd",
+                                                              "approved_by": null,
+                                                              "body": "It should become I think, but there is not yet a way to do this.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It should become I think, but there is not yet a way to do this.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Ubuntu",
+                                                              "name": "t1_c7xi4di",
+                                                              "created": 1358312816.0,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1358284016.0,
+                                                              "num_reports": null,
+                                                              "ups": 2
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "id": "c7xesmd",
+                                                    "gilded": 0,
+                                                    "author": "Hairo",
+                                                    "parent_id": "t1_c7xdr64",
+                                                    "approved_by": null,
+                                                    "body": "is possible to use pyside+qml with the ubuntu sdk??",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;is possible to use pyside+qml with the ubuntu sdk??&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Ubuntu",
+                                                    "name": "t1_c7xesmd",
+                                                    "created": 1358303272.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1358274472.0,
+                                                    "num_reports": null,
+                                                    "ups": 2
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "id": "c7xdr64",
+                                          "gilded": 0,
+                                          "author": "anyonethinkingabout",
+                                          "parent_id": "t1_c7xdlqs",
+                                          "approved_by": null,
+                                          "body": "I can assure you qml is extremely simple. It's mostly javascript if you hava a bigger project",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I can assure you qml is extremely simple. It&amp;#39;s mostly javascript if you hava a bigger project&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Ubuntu",
+                                          "name": "t1_c7xdr64",
+                                          "created": 1358300194.0,
+                                          "author_flair_text": null,
+                                          "created_utc": 1358271394.0,
+                                          "num_reports": null,
+                                          "ups": 3
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "id": "c7xdlqs",
+                                "gilded": 0,
+                                "author": "taterNuts",
+                                "parent_id": "t1_c7xctwh",
+                                "approved_by": null,
+                                "body": "cool I'll check into it more when I get back, although on first glance it seems to be mostly QML which I'm not too familiar with (and not sure if I want to learn a modeling language)",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;cool I&amp;#39;ll check into it more when I get back, although on first glance it seems to be mostly QML which I&amp;#39;m not too familiar with (and not sure if I want to learn a modeling language)&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Ubuntu",
+                                "name": "t1_c7xdlqs",
+                                "created": 1358299733.0,
+                                "author_flair_text": null,
+                                "created_utc": 1358270933.0,
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "id": "c7xctwh",
+                      "gilded": 0,
+                      "author": "anyonethinkingabout",
+                      "parent_id": "t1_c7xcrn4",
+                      "approved_by": null,
+                      "body": "you can use qmlscene and qmlviewer for now",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;you can use qmlscene and qmlviewer for now&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xctwh",
+                      "created": 1358297322.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358268522.0,
+                      "num_reports": null,
+                      "ups": 5
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xcrn4",
+            "gilded": 0,
+            "author": "taterNuts",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "I've been looking for a project to join... I don't have an ubuntu phone though, is there no decent emulators?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 1,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;ve been looking for a project to join... I don&amp;#39;t have an ubuntu phone though, is there no decent emulators?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xcrn4",
+            "created": 1358297111.0,
+            "author_flair_text": null,
+            "created_utc": 1358268311.0,
+            "num_reports": null,
+            "ups": 12
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": true,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": true,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2qh62",
+                                "banned_by": null,
+                                "link_id": "t3_16mewg",
+                                "likes": true,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2qh62",
+                                          "banned_by": null,
+                                          "link_id": "t3_16mewg",
+                                          "likes": true,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2qh62",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_16mewg",
+                                                    "likes": true,
+                                                    "replies": "",
+                                                    "id": "c7xlmn5",
+                                                    "gilded": 0,
+                                                    "author": "anyonethinkingabout",
+                                                    "parent_id": "t1_c7xkup6",
+                                                    "approved_by": null,
+                                                    "body": "hmm, maybe I should ask him again\n\nor ask Jono next week?\n\nI can't make that feature until the full sdk is released, anyway",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;hmm, maybe I should ask him again&lt;/p&gt;\n\n&lt;p&gt;or ask Jono next week?&lt;/p&gt;\n\n&lt;p&gt;I can&amp;#39;t make that feature until the full sdk is released, anyway&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Ubuntu",
+                                                    "name": "t1_c7xlmn5",
+                                                    "created": 1358323947.0,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1358295147.0,
+                                                    "num_reports": null,
+                                                    "ups": 3
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "id": "c7xkup6",
+                                          "gilded": 0,
+                                          "author": "MrPopinjay",
+                                          "parent_id": "t1_c7xi35s",
+                                          "approved_by": null,
+                                          "body": "Native apps can't use the notification system...? That can't be right...",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 1,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Native apps can&amp;#39;t use the notification system...? That can&amp;#39;t be right...&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Ubuntu",
+                                          "name": "t1_c7xkup6",
+                                          "created": 1358321383.0,
+                                          "author_flair_text": null,
+                                          "created_utc": 1358292583.0,
+                                          "num_reports": null,
+                                          "ups": 8
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "id": "c7xi35s",
+                                "gilded": 0,
+                                "author": "anyonethinkingabout",
+                                "parent_id": "t1_c7xgon6",
+                                "approved_by": null,
+                                "body": "integration will not be possible as I'm told by Canonical, this is only available for webapps.\n\nsharing system - yup! - Ubuntu One will have a place where you can store your settings and other data for applications\n\nI don't even support one account at the moment...",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;integration will not be possible as I&amp;#39;m told by Canonical, this is only available for webapps.&lt;/p&gt;\n\n&lt;p&gt;sharing system - yup! - Ubuntu One will have a place where you can store your settings and other data for applications&lt;/p&gt;\n\n&lt;p&gt;I don&amp;#39;t even support one account at the moment...&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Ubuntu",
+                                "name": "t1_c7xi35s",
+                                "created": 1358312709.0,
+                                "author_flair_text": null,
+                                "created_utc": 1358283909.0,
+                                "num_reports": null,
+                                "ups": 4
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "id": "c7xgon6",
+                      "gilded": 0,
+                      "author": "fatalfred",
+                      "parent_id": "t1_c7xe4zd",
+                      "approved_by": null,
+                      "body": " * Integration with the OS's notification system.\n * Integration with the sharing system if one exists.\n * Multi-account management.\n",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 1,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;ul&gt;\n&lt;li&gt;Integration with the OS&amp;#39;s notification system.&lt;/li&gt;\n&lt;li&gt;Integration with the sharing system if one exists.&lt;/li&gt;\n&lt;li&gt;Multi-account management.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xgon6",
+                      "created": 1358308471.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358279671.0,
+                      "num_reports": null,
+                      "ups": 14
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": true,
+                      "replies": "",
+                      "id": "c7xhqj6",
+                      "gilded": 0,
+                      "author": "tkms",
+                      "parent_id": "t1_c7xe4zd",
+                      "approved_by": null,
+                      "body": "~~How do I get to comments in the compact view? I'm a little lost...~~ I found it.\n\nI may look at one of my favorite apps later and see if it has any advantages over this except for being a native app. There is a lot of neat stuff you can do with reddit on mobile.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;del&gt;How do I get to comments in the compact view? I&amp;#39;m a little lost...&lt;/del&gt; I found it.&lt;/p&gt;\n\n&lt;p&gt;I may look at one of my favorite apps later and see if it has any advantages over this except for being a native app. There is a lot of neat stuff you can do with reddit on mobile.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xhqj6",
+                      "created": 1358311645.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358282845.0,
+                      "num_reports": null,
+                      "ups": 4
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xe4zd",
+            "gilded": 0,
+            "author": "azzid",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "What would the app do that the compact view lacks?\n\n[compact reddit](http://www.reddit.com/.compact)",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 2,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What would the app do that the compact view lacks?&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.reddit.com/.compact\"&gt;compact reddit&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xe4zd",
+            "created": 1358301336.0,
+            "author_flair_text": null,
+            "created_utc": 1358272536.0,
+            "num_reports": null,
+            "ups": 13
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": true,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": null,
+                      "replies": "",
+                      "id": "c7y4t8d",
+                      "gilded": 0,
+                      "author": "sankeytm",
+                      "parent_id": "t1_c7xho00",
+                      "approved_by": null,
+                      "body": "*alienbuntu*",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;em&gt;alienbuntu&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7y4t8d",
+                      "created": 1358400644.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358371844.0,
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xho00",
+            "gilded": 0,
+            "author": "jvacek996",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "Call it AlienPurple",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 1,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Call it AlienPurple&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xho00",
+            "created": 1358311434.0,
+            "author_flair_text": null,
+            "created_utc": 1358282634.0,
+            "num_reports": null,
+            "ups": 10
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": null,
+                      "replies": "",
+                      "id": "c7xuseo",
+                      "gilded": 0,
+                      "author": "PotentChili",
+                      "parent_id": "t1_c7xm3au",
+                      "approved_by": null,
+                      "body": "There should be.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;There should be.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xuseo",
+                      "created": 1358364494.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358335694.0,
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xm3au",
+            "gilded": 0,
+            "author": "nicereddy",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "Are there Ubuntu Phone design guidelines yet?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Are there Ubuntu Phone design guidelines yet?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xm3au",
+            "created": 1358325515.0,
+            "author_flair_text": null,
+            "created_utc": 1358296715.0,
+            "num_reports": null,
+            "ups": 5
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": true,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": true,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2qh62",
+                                "banned_by": null,
+                                "link_id": "t3_16mewg",
+                                "likes": true,
+                                "replies": "",
+                                "id": "c7xh37l",
+                                "gilded": 0,
+                                "author": "lablanquetteestbonne",
+                                "parent_id": "t1_c7xgss0",
+                                "approved_by": null,
+                                "body": "Most Reddit apps offer a dark theme, including those I've quoted.\n\nMy prefered is Reddit Sync (after trying the others). But the good thing is that you have the choice.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Most Reddit apps offer a dark theme, including those I&amp;#39;ve quoted.&lt;/p&gt;\n\n&lt;p&gt;My prefered is Reddit Sync (after trying the others). But the good thing is that you have the choice.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Ubuntu",
+                                "name": "t1_c7xh37l",
+                                "created": 1358309698.0,
+                                "author_flair_text": null,
+                                "created_utc": 1358280898.0,
+                                "num_reports": null,
+                                "ups": 5
+                              }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2qh62",
+                                "banned_by": null,
+                                "link_id": "t3_16mewg",
+                                "likes": true,
+                                "replies": "",
+                                "id": "c7xi4rb",
+                                "gilded": 0,
+                                "author": "anyonethinkingabout",
+                                "parent_id": "t1_c7xgss0",
+                                "approved_by": null,
+                                "body": "I already have a dark theme, just didn't make any screenshots for it.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I already have a dark theme, just didn&amp;#39;t make any screenshots for it.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Ubuntu",
+                                "name": "t1_c7xi4rb",
+                                "created": 1358312845.0,
+                                "author_flair_text": null,
+                                "created_utc": 1358284045.0,
+                                "num_reports": null,
+                                "ups": 3
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "id": "c7xgss0",
+                      "gilded": 0,
+                      "author": "tkms",
+                      "parent_id": "t1_c7xfijr",
+                      "approved_by": null,
+                      "body": "Reddit is Fun is the best redditing app for Android. I'd start there. One big thing -- include a dark theme! The ability to change themes between light and dark has become an almost standard feature in apps on Android, and for good reason: dark themes are awesome.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 3,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Reddit is Fun is the best redditing app for Android. I&amp;#39;d start there. One big thing -- include a dark theme! The ability to change themes between light and dark has become an almost standard feature in apps on Android, and for good reason: dark themes are awesome.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xgss0",
+                      "created": 1358308816.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358280016.0,
+                      "num_reports": null,
+                      "ups": 11
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": true,
+                      "replies": "",
+                      "id": "c7xi803",
+                      "gilded": 0,
+                      "author": "anyonethinkingabout",
+                      "parent_id": "t1_c7xfijr",
+                      "approved_by": null,
+                      "body": "Already did. I love Reddit Sync on my Android, but I tend to switch over.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Already did. I love Reddit Sync on my Android, but I tend to switch over.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xi803",
+                      "created": 1358313126.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358284326.0,
+                      "num_reports": null,
+                      "ups": 2
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xfijr",
+            "gilded": 0,
+            "author": "lablanquetteestbonne",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "You can take ideas at current Android and Iphone apps. Like Reddit Sync and Reddit News on Android.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 1,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You can take ideas at current Android and Iphone apps. Like Reddit Sync and Reddit News on Android.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xfijr",
+            "created": 1358305227.0,
+            "author_flair_text": null,
+            "created_utc": 1358276427.0,
+            "num_reports": null,
+            "ups": 5
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": true,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": true,
+                      "replies": "",
+                      "id": "c7xi5ns",
+                      "gilded": 0,
+                      "author": "anyonethinkingabout",
+                      "parent_id": "t1_c7xhgwc",
+                      "approved_by": null,
+                      "body": "mostly just qml\n\nI try to stay away from the c++ part, but if i have to, I think I can do it",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;mostly just qml&lt;/p&gt;\n\n&lt;p&gt;I try to stay away from the c++ part, but if i have to, I think I can do it&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xi5ns",
+                      "created": 1358312925.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358284125.0,
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xhgwc",
+            "gilded": 0,
+            "author": "Peanuts4MePlz",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "What will be your approach to making the app? Any plans? Which languages will be utilized?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What will be your approach to making the app? Any plans? Which languages will be utilized?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xhgwc",
+            "created": 1358310844.0,
+            "author_flair_text": null,
+            "created_utc": 1358282044.0,
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": true,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": true,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2qh62",
+                                "banned_by": null,
+                                "link_id": "t3_16mewg",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2qh62",
+                                          "banned_by": null,
+                                          "link_id": "t3_16mewg",
+                                          "likes": true,
+                                          "replies": "",
+                                          "id": "c7xxvja",
+                                          "gilded": 0,
+                                          "author": "anyonethinkingabout",
+                                          "parent_id": "t1_c7xxkrx",
+                                          "approved_by": null,
+                                          "body": "it is indeed SDLite, and I even use that perticular page",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;it is indeed SDLite, and I even use that perticular page&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Ubuntu",
+                                          "name": "t1_c7xxvja",
+                                          "created": 1358380765.0,
+                                          "author_flair_text": null,
+                                          "created_utc": 1358351965.0,
+                                          "num_reports": null,
+                                          "ups": 1
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "id": "c7xxkrx",
+                                "gilded": 0,
+                                "author": "ProgrammingThomas",
+                                "parent_id": "t1_c7xi6im",
+                                "approved_by": null,
+                                "body": "Sorry, I know QML isn't like SQL. I was wondering what database stuff you an use with QML, but [this](http://www.developer.nokia.com/Community/Wiki/How-to_create_a_persistent_settings_database_in_Qt_Quick_(QML)) suggests that it is SQLite.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Sorry, I know QML isn&amp;#39;t like SQL. I was wondering what database stuff you an use with QML, but &lt;a href=\"http://www.developer.nokia.com/Community/Wiki/How-to_create_a_persistent_settings_database_in_Qt_Quick_(QML\"&gt;this&lt;/a&gt;) suggests that it is SQLite.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Ubuntu",
+                                "name": "t1_c7xxkrx",
+                                "created": 1358379748.0,
+                                "author_flair_text": null,
+                                "created_utc": 1358350948.0,
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "id": "c7xi6im",
+                      "gilded": 0,
+                      "author": "anyonethinkingabout",
+                      "parent_id": "t1_c7xhnnm",
+                      "approved_by": null,
+                      "body": "It's nothing like SQL at all. More like making a webpage, but without sgml/xml",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It&amp;#39;s nothing like SQL at all. More like making a webpage, but without sgml/xml&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xi6im",
+                      "created": 1358312997.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358284197.0,
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xhnnm",
+            "gilded": 0,
+            "author": "ProgrammingThomas",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "I'm keen to get involved but I'm yet to set up all the tools on Ubuntu for mobile development. I guess hat if you wanted to have features like Reddit Sync you are going to need some sort of backend to store all existing comments and links (I haven't used QML before but I assume its either noSQL or SQLite) and the link content - fetching the HTML and then scanning through for related image/CSS files isn't too hard. A feature that would probably be worth implementing is a 'pretty' image view when the link goes to imgur like in Alien Blue so that you don't have to view the whole page.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m keen to get involved but I&amp;#39;m yet to set up all the tools on Ubuntu for mobile development. I guess hat if you wanted to have features like Reddit Sync you are going to need some sort of backend to store all existing comments and links (I haven&amp;#39;t used QML before but I assume its either noSQL or SQLite) and the link content - fetching the HTML and then scanning through for related image/CSS files isn&amp;#39;t too hard. A feature that would probably be worth implementing is a &amp;#39;pretty&amp;#39; image view when the link goes to imgur like in Alien Blue so that you don&amp;#39;t have to view the whole page.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xhnnm",
+            "created": 1358311406.0,
+            "author_flair_text": null,
+            "created_utc": 1358282606.0,
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": true,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": true,
+                      "replies": "",
+                      "id": "c7xj17r",
+                      "gilded": 0,
+                      "author": "anyonethinkingabout",
+                      "parent_id": "t1_c7xiah8",
+                      "approved_by": null,
+                      "body": "as soon as you're seeing Javascript, learn QML!",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;as soon as you&amp;#39;re seeing Javascript, learn QML!&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xj17r",
+                      "created": 1358315546.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358286746.0,
+                      "num_reports": null,
+                      "ups": 2
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xiah8",
+            "gilded": 0,
+            "author": "addrumm",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "This looks fantastic! Shame I don't have an Ubuntu phone as I really want one and I'm in my first year at uni doing programming so I'm too new to be dependant on :(",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This looks fantastic! Shame I don&amp;#39;t have an Ubuntu phone as I really want one and I&amp;#39;m in my first year at uni doing programming so I&amp;#39;m too new to be dependant on :(&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xiah8",
+            "created": 1358313330.0,
+            "author_flair_text": null,
+            "created_utc": 1358284530.0,
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": null,
+            "replies": "",
+            "id": "c7xlsez",
+            "gilded": 0,
+            "author": "katacarbix",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "I started on one, but I have very little time these days for anything, and I know nothing about UP development. I'll check this out and maybe contribute some UI design!",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I started on one, but I have very little time these days for anything, and I know nothing about UP development. I&amp;#39;ll check this out and maybe contribute some UI design!&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xlsez",
+            "created": 1358324493.0,
+            "author_flair_text": null,
+            "created_utc": 1358295693.0,
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": null,
+            "replies": "",
+            "id": "c7xts7l",
+            "gilded": 0,
+            "author": "FluffyBunnyOK",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "TIL: Looking at the source code that /r/waterporn exists.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;TIL: Looking at the source code that &lt;a href=\"/r/waterporn\"&gt;/r/waterporn&lt;/a&gt; exists.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xts7l",
+            "created": 1358355344.0,
+            "author_flair_text": null,
+            "created_utc": 1358326544.0,
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": true,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": true,
+                      "replies": "",
+                      "id": "c7xvb07",
+                      "gilded": 0,
+                      "author": "anyonethinkingabout",
+                      "parent_id": "t1_c7xuqfi",
+                      "approved_by": null,
+                      "body": "yes, that is my app, but it wasn't made by me..\n\nI've made one and it's on the github page\n\nmaybe I can contact them, I know a few javascript functions I would like to \"lend\" from them, but I can't find them...",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;yes, that is my app, but it wasn&amp;#39;t made by me..&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ve made one and it&amp;#39;s on the github page&lt;/p&gt;\n\n&lt;p&gt;maybe I can contact them, I know a few javascript functions I would like to &amp;quot;lend&amp;quot; from them, but I can&amp;#39;t find them...&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xvb07",
+                      "created": 1358368803.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358340003.0,
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xuqfi",
+            "gilded": 0,
+            "author": "Winter_S",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "Just wondering. Is [this](http://www.youtube.com/watch?v=RbogVDmbgYc&amp;feature=player_embedded) the app?\n\nIf so, it looks great so far. Once you have got the source for the UbuntuPhoneOS, you should allow the app to intergrate with it, thus making it only compatible with Ubuntu Phone.\n\nYou should contact the RES guys too. Maybe you could sort something out?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Just wondering. Is &lt;a href=\"http://www.youtube.com/watch?v=RbogVDmbgYc&amp;amp;feature=player_embedded\"&gt;this&lt;/a&gt; the app?&lt;/p&gt;\n\n&lt;p&gt;If so, it looks great so far. Once you have got the source for the UbuntuPhoneOS, you should allow the app to intergrate with it, thus making it only compatible with Ubuntu Phone.&lt;/p&gt;\n\n&lt;p&gt;You should contact the RES guys too. Maybe you could sort something out?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xuqfi",
+            "created": 1358363974.0,
+            "author_flair_text": null,
+            "created_utc": 1358335174.0,
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": null,
+            "replies": "",
+            "id": "c7xw712",
+            "gilded": 0,
+            "author": "badsyntax",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "Thank you for inspiring me into making an app myself. Although I briefly skimmed through the developer docs when the phone OS was announced, I never fully understood how piss easy it would be.\nI'm a web developer and I love coding in Javascript, and QML looks really easy to pick up. Looking through some of the source reminded me a bit of Sencha Touch (which I've already used to build a fairly complex app). So I've come to realize I already have the skills to build to a native Ubuntu Phone OS App! YAY.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thank you for inspiring me into making an app myself. Although I briefly skimmed through the developer docs when the phone OS was announced, I never fully understood how piss easy it would be.\nI&amp;#39;m a web developer and I love coding in Javascript, and QML looks really easy to pick up. Looking through some of the source reminded me a bit of Sencha Touch (which I&amp;#39;ve already used to build a fairly complex app). So I&amp;#39;ve come to realize I already have the skills to build to a native Ubuntu Phone OS App! YAY.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xw712",
+            "created": 1358374157.0,
+            "author_flair_text": null,
+            "created_utc": 1358345357.0,
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2qh62",
+                                "banned_by": null,
+                                "link_id": "t3_16mewg",
+                                "likes": null,
+                                "replies": "",
+                                "id": "c7yhenj",
+                                "gilded": 0,
+                                "author": "berkes",
+                                "parent_id": "t1_c7ybd8h",
+                                "approved_by": null,
+                                "body": "I have that. But thuis app sucks for browsing link and self-posts. Imho it is not too hard to craft an app that does both.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I have that. But thuis app sucks for browsing link and self-posts. Imho it is not too hard to craft an app that does both.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Ubuntu",
+                                "name": "t1_c7yhenj",
+                                "created": 1358443599.0,
+                                "author_flair_text": null,
+                                "created_utc": 1358414799.0,
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "id": "c7ybd8h",
+                      "gilded": 0,
+                      "author": "AgletsHowDoTheyWork",
+                      "parent_id": "t1_c7xwv2f",
+                      "approved_by": null,
+                      "body": "This probably isn't exactly what you're looking for, but check out [Reddit In Pictures](https://play.google.com/store/apps/details?id=com.antew.redditinpictures). I don't think it's FOSS though.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This probably isn&amp;#39;t exactly what you&amp;#39;re looking for, but check out &lt;a href=\"https://play.google.com/store/apps/details?id=com.antew.redditinpictures\"&gt;Reddit In Pictures&lt;/a&gt;. I don&amp;#39;t think it&amp;#39;s FOSS though.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7ybd8h",
+                      "created": 1358419743.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358390943.0,
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xwv2f",
+            "gilded": 0,
+            "author": "berkes",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "I'd love some sort of \"gallery-mode\", something that Android-reddit-apps  lack. \n\nReddit-is-fun opens a browser when you click on a submission that links to an image. This makes browsing ~~gonewild~~lolcats a PIAS.\n\nI'd suggest this would not be some clutter or \"option\" but rather a smart-ish behaviour. Where, when reddit-submission has a thumbnail, the original for that image is preloaded and shown in the full-view automagically.\n\nTogether with a next-previous swipe or buttons, that would make the reader great for both image subreddits and for the link and self-posts.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;d love some sort of &amp;quot;gallery-mode&amp;quot;, something that Android-reddit-apps  lack. &lt;/p&gt;\n\n&lt;p&gt;Reddit-is-fun opens a browser when you click on a submission that links to an image. This makes browsing &lt;del&gt;gonewild&lt;/del&gt;lolcats a PIAS.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;d suggest this would not be some clutter or &amp;quot;option&amp;quot; but rather a smart-ish behaviour. Where, when reddit-submission has a thumbnail, the original for that image is preloaded and shown in the full-view automagically.&lt;/p&gt;\n\n&lt;p&gt;Together with a next-previous swipe or buttons, that would make the reader great for both image subreddits and for the link and self-posts.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xwv2f",
+            "created": 1358377083.0,
+            "author_flair_text": null,
+            "created_utc": 1358348283.0,
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": null,
+            "replies": "",
+            "id": "c7ybsy2",
+            "gilded": 0,
+            "author": "getpoked",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "This looks fun I'd love a reddit app once the nexus images start coming out! Best way would be to contribute I'll install the SDK soon :)",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This looks fun I&amp;#39;d love a reddit app once the nexus images start coming out! Best way would be to contribute I&amp;#39;ll install the SDK soon :)&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7ybsy2",
+            "created": 1358420991.0,
+            "author_flair_text": null,
+            "created_utc": 1358392191.0,
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": true,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": null,
+                      "replies": "",
+                      "id": "c7xt6vq",
+                      "gilded": 0,
+                      "author": "lewiji",
+                      "parent_id": "t1_c7xhd63",
+                      "approved_by": null,
+                      "body": "Since when was reddit known for its great UX design? It's a pretty bad interface even on a desktop, let alone a tiny phone screen.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Since when was reddit known for its great UX design? It&amp;#39;s a pretty bad interface even on a desktop, let alone a tiny phone screen.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xt6vq",
+                      "created": 1358351322.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358322522.0,
+                      "num_reports": null,
+                      "ups": 4
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": null,
+                      "replies": "",
+                      "id": "c7xjzm5",
+                      "gilded": 0,
+                      "author": "cmdrNacho",
+                      "parent_id": "t1_c7xhd63",
+                      "approved_by": null,
+                      "body": "I tend to agree, I like the ability to open everything in new tabs and background loading vs the way an app has a lot of tedious motions to do something. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I tend to agree, I like the ability to open everything in new tabs and background loading vs the way an app has a lot of tedious motions to do something. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xjzm5",
+                      "created": 1358318581.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358289781.0,
+                      "num_reports": null,
+                      "ups": 2
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": null,
+                      "replies": "",
+                      "id": "c7y1xgz",
+                      "gilded": 0,
+                      "author": "caryhartline",
+                      "parent_id": "t1_c7xhd63",
+                      "approved_by": null,
+                      "body": "&gt; seriously failed with the website design\n\nAre we viewing the same Reddit? It's not necessarily *bad*, but it's not good neither.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;seriously failed with the website design&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Are we viewing the same Reddit? It&amp;#39;s not necessarily &lt;em&gt;bad&lt;/em&gt;, but it&amp;#39;s not good neither.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7y1xgz",
+                      "created": 1358392753.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358363953.0,
+                      "num_reports": null,
+                      "ups": 1
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xhd63",
+            "gilded": 0,
+            "author": "[deleted]",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "[deleted]",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 8,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;[deleted]&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xhd63",
+            "created": 1358310525.0,
+            "author_flair_text": null,
+            "created_utc": 1358281725.0,
+            "num_reports": null,
+            "ups": 4
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2qh62",
+            "banned_by": null,
+            "link_id": "t3_16mewg",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2qh62",
+                      "banned_by": null,
+                      "link_id": "t3_16mewg",
+                      "likes": true,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "s6a6xezlfm795f774842b41c04d53a559e9bdea9949f1276ea",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2qh62",
+                                "banned_by": null,
+                                "link_id": "t3_16mewg",
+                                "likes": true,
+                                "replies": "",
+                                "id": "c7xhesm",
+                                "gilded": 0,
+                                "author": "aperson",
+                                "parent_id": "t1_c7xgtep",
+                                "approved_by": null,
+                                "body": "They get to end somewhere too ;)",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;They get to end somewhere too ;)&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Ubuntu",
+                                "name": "t1_c7xhesm",
+                                "created": 1358310668.0,
+                                "author_flair_text": null,
+                                "created_utc": 1358281868.0,
+                                "num_reports": null,
+                                "ups": 12
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "id": "c7xgtep",
+                      "gilded": 0,
+                      "author": "tkms",
+                      "parent_id": "t1_c7xgcy4",
+                      "approved_by": null,
+                      "body": "Well, a novelty account has to start somewhere, I guess.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Well, a novelty account has to start somewhere, I guess.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Ubuntu",
+                      "name": "t1_c7xgtep",
+                      "created": 1358308869.0,
+                      "author_flair_text": null,
+                      "created_utc": 1358280069.0,
+                      "num_reports": null,
+                      "ups": 7
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "id": "c7xgcy4",
+            "gilded": 0,
+            "author": "[deleted]",
+            "parent_id": "t3_16mewg",
+            "approved_by": null,
+            "body": "[deleted]",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 14,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;[deleted]&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Ubuntu",
+            "name": "t1_c7xgcy4",
+            "created": 1358307528.0,
+            "author_flair_text": null,
+            "created_utc": 1358278728.0,
+            "num_reports": null,
+            "ups": 5
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

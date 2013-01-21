@@ -20,7 +20,7 @@ Rectangle {
 		anchors.fill: parent
 		ItemStyle.class: "new-tabs"
 
-		selectedTabIndex: 1
+		selectedTabIndex: 1 // skip the settings page
 
 		SettingsTab {}
 
