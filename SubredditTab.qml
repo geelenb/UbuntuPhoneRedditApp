@@ -10,6 +10,11 @@ Tab {
 	anchors.fill: parent
 	property string url: "/"
 
+//	what are the real icon names for these?
+//	is it possible to see icon and title in the title bar?
+//	iconSource: (url == "/") ? "image://gicon/go-home" :
+//				(url == "/r/all") ? "image://gicon/help-about" : ""
+
 	title: (url == "/") ? "reddit.com" : url.substring(1)
 
 	MyFlipable {
@@ -17,6 +22,13 @@ Tab {
 		anchors.fill: parent
 
 		flipsvertically: false
+
+		onFlippedChanged: {
+			if (!flipped) {
+				pagestack.clear()
+				webview.url = ""
+			}
+		}
 
 		JSONListModel {
 			id: linkslistmodel
@@ -26,6 +38,7 @@ Tab {
 
 		front: Rectangle {
 			anchors.fill: parent
+			enabled: !flipable.flipped
 
 			color: Js.getBackgroundColor()
 
@@ -33,19 +46,17 @@ Tab {
 				anchors.fill: parent
 
 				model: linkslistmodel.model
-				enabled: !flipable.flipped
 
 				delegate: ListItem.Standard {
 					id: listitem
 					height: units.gu(parseInt(Storage.getSetting("postheight")))
 					width: parent.width
 
-
 					UbuntuShape {
 						id: thumbshape
 						height: parent.height
 						width: (model.data.thumbnail == "self" || Storage.getSetting("enablethumbnails") != "true") ? 0 : parent.height
-						anchors.left: (Storage.getSetting("thumbnailsonleftside") == "true") ? parent.left : undefined //make option
+						anchors.left: (Storage.getSetting("thumbnailsonleftside") == "true") ? parent.left : undefined
 						anchors.right: (Storage.getSetting("thumbnailsonleftside") == "true") ? undefined : parent.right
 						radius: (Storage.getSetting("rounderthumbnails") == "true") ? "medium" : "small"
 
@@ -170,7 +181,11 @@ Tab {
 										MouseArea {
 											anchors.fill: parent
 											enabled: itemflipable.flipped
-											onClicked: console.log("Go to the comments!")
+											onClicked: {
+												flipable.flip()
+												commentrectangle.loadPage(model.data.permalink)
+												backside.commentpage = true
+											}
 										}
 									}
 
@@ -252,7 +267,7 @@ Tab {
 							}
 
 							transitions: Transition {
-								NumberAnimation { target: rotation; property: "angle"; duration: Storage.getSetting("flipspeed") / 2 } // add option: speed
+								NumberAnimation { target: rotation; property: "angle"; duration: 200 }
 							}
 
 							function flip () {
@@ -272,22 +287,23 @@ Tab {
 
 			anchors.fill: parent
 			color: Js.getBackgroundColor()
+			enabled: flipable.flipped
 
 			Button {
 				id: backbutton
 				text: "Go back"
 				height: units.gu(4)
 				width: parent.width
-				onClicked: {
-					flipable.flip()
-					webview.stop
-				}
-				enabled: flipable.flipped
+				onClicked: flipable.flip()
 			}
 
 			Rectangle {
 				id: commentrectangle
 				opacity: (backside.commentpage)? 1 : 0
+				color: Js.getBackgroundColor()
+
+				// why isn't this enabled?
+				// TODO: fix contents
 
 				height: parent.height - backbutton.height
 				width: parent.width
@@ -295,9 +311,68 @@ Tab {
 
 				property string permalink: ""
 
-				Rectangle {
-					id: postrectangle
-					//	anchors.
+				function loadPage (n_permalink) {
+					permalink = n_permalink;
+					commentslistmodel.source = "http://www.reddit.com" + permalink + ".json"
+					pagestack.clear()
+					pagestack.push(rootpage)
+				}
+
+				JSONListModel {
+					id: commentslistmodel
+					query: "$[1].data.children[*]"
+				}
+
+				PageStack {
+					id: pagestack
+					anchors.fill: parent
+
+					// try to merge these next 2
+					Component {
+						id: rootpage
+						Page {
+							title: "test1"
+
+							ListView {
+								anchors.fill: parent
+								model: commentslistmodel.model
+
+								delegate: ListItem.Standard {
+									text: model.data.body
+
+									progression: true
+									onClicked: {
+										console.log("clicked")
+										pagestack.push(newpage, {commentsModel: model.data.replies.data.children})
+									}
+								}
+							}
+						}
+					}
+
+					Component {
+						id: newpage
+
+						Page {
+							id: page
+							title: "test2"
+
+							property variant commentsModel: []
+
+							ListView {
+								anchors.fill: parent
+								model: commentsModel
+
+								delegate: ListItem.Standard {
+									text: modelData.data.body
+
+
+									progression: true
+									onClicked: pagestack.push(newpage, {commentsModel: modelData.data.replies.data.children})
+								}
+							}
+						}
+					}
 				}
 			}
 

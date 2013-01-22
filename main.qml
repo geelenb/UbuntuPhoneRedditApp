@@ -26,13 +26,14 @@ Rectangle {
 
 //		Bugged in ubuntu components 0.1
 //		Repeater {
-//			model: ["/", "/r/ubuntuphone"] // should become a function
+//			model: ["/", "/r/ubuntuphone"] // should become a function fetching from the database
 //			delegate: SubredditTab {
-//				title: modelData
+//				url: modelData
 //			}
 //		}
 
 		SubredditTab {} // reddit.com
+		SubredditTab {url: "/r/all"} // reddit.com/r/all
 		SubredditTab {url: "/r/funny"}
 		SubredditTab {url: "/r/waterporn"}
 	}

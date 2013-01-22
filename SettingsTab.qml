@@ -39,8 +39,8 @@ Tab {
 					thumbnailsonleftside.loadValue()
 					rounderthumbnails.loadValue()
 					postheight.value = parseInt(Storage.getSetting("postheight"))
-					flipspeed.value = parseInt(Storage.getSetting("flipspeed"))
 					nightmode.loadValue()
+					flippages.loadValue()
 				}
 
 				ListItem.Header {
@@ -69,7 +69,10 @@ Tab {
 
 				ListItem.SingleControl {
 					control: Button {
-						anchors.fill: parent
+						width: parent.width * 3 / 4
+						anchors.topMargin: units.gu(1)
+						anchors.bottomMargin: units.gu(1)
+						anchors.centerIn: parent
 
 						text: "Account..."
 
@@ -79,7 +82,10 @@ Tab {
 
 				ListItem.SingleControl {
 					control: Button {
-						anchors.fill: parent
+						width: parent.width * 3 / 4
+						anchors.topMargin: units.gu(1)
+						anchors.bottomMargin: units.gu(1)
+						anchors.centerIn: parent
 
 						text: "Subreddits..."
 
@@ -149,21 +155,11 @@ Tab {
 				}
 
 				ListItem.Standard {
-					text: "Pageflip speed (lower is faster)"
-				}
+					text: "Flip pages"
 
-				ListItem.SingleControl {
-					control: Slider {
-						id: flipspeed
-
-						anchors.margins: units.gu (1)
-						anchors.fill: parent
-						minimumValue: 0
-						maximumValue: 1000
-						live: true
-
-						value: 250
-						onValueChanged: Storage.setSetting("flipspeed", value)
+					control: SettingSwitch {
+						id: flippages
+						name: "flippages"
 					}
 				}
 

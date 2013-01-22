@@ -8,3 +8,7 @@ function getBackgroundColor () {
 function getFetchedArray () {
 	return ["10", "15", "25", "50"]
 }
+
+function getFlipSpeed() {
+	return 300
+}
