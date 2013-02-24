@@ -204,6 +204,28 @@ Tab {
 				height: units.gu(4)
 				width: parent.width
 				onClicked: {
+                    var http = new XMLHttpRequest()
+                    var url = "http://www.reddit.com/api/login";
+                    var params = "user="+Storage.getSetting("accountname", text)+"&passwd="+Storage.getSetting("password", text)+"&api_type=json";
+                    http.open("POST", url, true);
+                    console.log(params)
+
+                    // Send the proper header information along with the request
+                    http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+                    http.setRequestHeader("Content-length", params.length);
+                    http.setRequestHeader("Connection", "close");
+
+                    http.onreadystatechange = function() {
+                                if (http.readyState == 4) {
+                                    if (http.status == 200) {
+                                        console.log("ok")
+                                        console.log(http.responseText)
+                                    } else {
+                                        console.log("error: " + http.status)
+                                    }
+                                }
+                            }
+                    http.send(params);
 					flipable.flip()
 				}
 			}
