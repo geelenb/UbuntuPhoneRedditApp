@@ -48,4 +48,6 @@ Item {
 
         return objectArray;
     }
+
+    Component.onCompleted: updateJSONModel();
 }
